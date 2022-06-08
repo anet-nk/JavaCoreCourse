@@ -1,7 +1,5 @@
 package homeWorkLesson1;
 
-import java.util.Arrays;
-
 public class Team {
     private String name;
     private Sportsman[] sportsmen;

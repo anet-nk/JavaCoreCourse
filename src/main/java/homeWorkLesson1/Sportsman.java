@@ -1,7 +1,5 @@
 package homeWorkLesson1;
 
-import java.io.PrintWriter;
-
 public class Sportsman {
     private String name;
     private int swimDistance;
