@@ -1,4 +1,4 @@
-package homeWorkLesson1;
+package homeworkLesson1;
 
 public class Team {
     private String name;
